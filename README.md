@@ -28,10 +28,10 @@ A cloud-native, full stack task management app built with Next.js, Supabase, and
 ## 🧱 Architecture Overview
 
 Client (Next.js + Tailwind)
-└── UI Components, Auth Pages, Dashboard
-└── API Routes (/api/tasks, /api/auth)
-└── Supabase DB + Vercel Functions
-└── Deployment via Vercel
+- └── UI Components, Auth Pages, Dashboard
+- └── API Routes (/api/tasks, /api/auth)
+- └── Supabase DB + Vercel Functions
+- └── Deployment via Vercel
 
 
 ---
